@@ -1,0 +1,16 @@
+.idea/
+.gradle/
+build/
+*/build/
+*.iml
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+*/local.gradle
+/out/
+*/war/
+/classes/
+build-info.properties
