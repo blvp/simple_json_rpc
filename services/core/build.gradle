@@ -1,0 +1,7 @@
+apply plugin: 'war'
+dependencies {
+
+    testCompile libraries.tests
+
+    compile project(':services:shared')
+}
